@@ -20,19 +20,16 @@
 
 ## About <a name = "about"></a>
 
-This project is a simple e-commerce website that is built with the following technologies:
+This project is a simple CMS-style blog that is built with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/)
-- [MySQL](https://www.mysql.com/)
-- [Sequelize](https://sequelize.org/)
-
-The database is MySQL and the server is Node.js. The database has 4 tables:
-
-    - [products](#products)
-    - [tags](#tags)
-    - [product_tags](#product_tags)
-    - [category](#category)
+- [Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
+- - [Express-Session](https://www.npmjs.com/package/express-session)
+- [MySQL2](https://www.npmjs.com/package/mysql2)
+- [Sequelize](https://www.npmjs.com/package/sequelize)
+- [DOTENV](https://www.npmjs.com/package/dotenv)
+- [Bcrypt](https://www.npmjs.com/package/bcrypt)
+- [Connect-Session-Sequelize](https://www.npmjs.com/package/connect-session-sequelize)
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -84,9 +81,14 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ### Prerequisites
 
+- [Node.js](https://nodejs.org/en/)
+- [Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
+- - [Express-Session](https://www.npmjs.com/package/express-session)
 - [MySQL2](https://www.npmjs.com/package/mysql2)
 - [Sequelize](https://www.npmjs.com/package/sequelize)
-- [DotEnv](https://www.npmjs.com/package/dotenv)
+- [DOTENV](https://www.npmjs.com/package/dotenv)
+- [Bcrypt](https://www.npmjs.com/package/bcrypt)
+- [Connect-Session-Sequelize](https://www.npmjs.com/package/connect-session-sequelize)
 
 ### Installing
 
