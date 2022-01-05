@@ -83,7 +83,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 - [Node.js](https://nodejs.org/en/)
 - [Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
-- - [Express-Session](https://www.npmjs.com/package/express-session)
+- [Express-Session](https://www.npmjs.com/package/express-session)
 - [MySQL2](https://www.npmjs.com/package/mysql2)
 - [Sequelize](https://www.npmjs.com/package/sequelize)
 - [DOTENV](https://www.npmjs.com/package/dotenv)
